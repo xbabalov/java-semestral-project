@@ -1,2 +1,7 @@
-# java-semestral-project
-Hotel reservation Java application
+# Hotel reservation Java app
+
+Contributors:
+Tamara Babalova
+David Charamza
+Matej Timar
+Pavel Rezny
